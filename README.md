@@ -17,6 +17,9 @@ I am a **Network & Cloud Security** passionate about building scalable web appli
 - **Infrastructure:** Docker, Terraform, Git, Virtualization
 - **Languages:** Python, Bash, PowerShell
 
-
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)  
 
 
