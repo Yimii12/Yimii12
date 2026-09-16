@@ -16,9 +16,7 @@ I am a **Network & Cloud Security** passionate about building scalable web appli
 - **Security:** Network Security, Cloud Security, Hardening, Wireshark, Nmap
 - **Infrastructure:** Docker, Terraform, Git, Virtualization
 - **Languages:** Python, Bash, PowerShell
-      |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)  
+
+-
 
 
